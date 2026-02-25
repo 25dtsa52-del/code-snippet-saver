@@ -1,0 +1,26 @@
+# Code Snippet Saver
+
+## Project Description
+Code Snippet Saver is a full-stack web application that allows users to write, save, and view programming code snippets. It demonstrates frontend, backend, and GitHub integration using Node.js and Express.
+
+## Features
+- Save code snippets
+- View saved snippets
+- Backend server using Node.js
+- Full web development workflow
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- GitHub
+
+## Project Structure
+public/ → frontend files  
+server/ → backend files  
+
+## Author
+SANTHOSH C
+BSc Data Science
